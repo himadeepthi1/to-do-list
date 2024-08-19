@@ -2,7 +2,7 @@
 
 ## Core concepts
 
-+ MySql - absolute basics. Single table database.
+
 + Node.JS
 + Javascript
 + EJS - templating
